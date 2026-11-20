@@ -1,0 +1,22 @@
+{
+  "counts": {
+    "calendar": 99,
+    "calendar_dates": 116,
+    "frequencies": 0,
+    "routes": 402,
+    "stop_times": 8308070,
+    "stops": 10282,
+    "trips": 246824
+  },
+  "download_url": "/api/v1/schedule/ireland.json.gz?sha256=db9d69ef43fa61a2a98d21dae4e74fb9ae0e89a53e6e27ec8253c48b587c820a",
+  "exact_duplicate_stop_times_removed": 0,
+  "generated_at": "2026-11-20T02:49:52.233252+00:00",
+  "schema_version": 1,
+  "sha256": "db9d69ef43fa61a2a98d21dae4e74fb9ae0e89a53e6e27ec8253c48b587c820a",
+  "size_bytes": 40291103,
+  "source_sha256": "4cf0401bdeaf2f14bf7a0404aee8a87f3eb83c61e87197cc8ff91d95dd9cd946",
+  "source_url": "https://www.transportforireland.ie/transitData/Data/GTFS_Realtime.zip",
+  "valid_from": "2026-11-19",
+  "valid_until": "2027-11-19",
+  "version": "A4072492-5B5C-46D1-ABE0-685626A4F0A8"
+}
