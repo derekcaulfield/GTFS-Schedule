@@ -1,0 +1,9 @@
+{
+  "version": "A4072492-5B5C-46D1-ABE0-685626A4F0A8",
+  "generated_at": "2026-11-20T03:34:45.233445+00:00",
+  "valid_from": "2026-11-19",
+  "valid_until": "2027-11-19",
+  "size_bytes": 24068210,
+  "sha256": "4ddb8384939b5f0f2afaee86eefe029b13b28448d8817af460df1f9654825c74",
+  "download_url": "https://github.com/derekcaulfield/GTFS-Schedule/releases/latest/download/dublin-schedules.zip"
+}
